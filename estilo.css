@@ -1,0 +1,11 @@
+.caja{
+    border:1px solid red;
+    display: flex;
+    justify-content: space-evenly;    
+    height: 300px;
+    align-items: flex-start;
+}
+
+p{
+    background: green;
+}
